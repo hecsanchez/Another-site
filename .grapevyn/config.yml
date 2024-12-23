@@ -1,0 +1,12 @@
+
+name: Another site
+version: 1.0.0
+meta:
+  createdAt: 2024-12-23T02:57:06.640Z
+  updatedAt: 2024-12-23T02:57:06.640Z
+  author: ""
+  description: ""
+pages:
+  - id: home
+    name: Home
+    path: /
